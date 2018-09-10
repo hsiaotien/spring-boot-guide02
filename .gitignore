@@ -9,4 +9,4 @@
 /nb*
 /release.properties
 /target
-.idea
+src/test/
